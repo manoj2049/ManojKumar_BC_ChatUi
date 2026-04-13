@@ -1,9 +1,9 @@
 # ChatUI — Assignment Submission
 
-**Student:** Kowshik B H  
+**Student:** Manoj Kumar B C 
 **Assignment:** Chat UI Development  
 **Institution / Company:** CampusPe  
-**Submitted on:** April 07, 2026
+**Submitted on:** April 13, 2026
 
 ---
 
@@ -12,14 +12,14 @@ Built with HTML, CSS, JavaScript, jQuery, and Bootstrap 5.
 
 ## How to Run
 
-1. Unzip `Kowshik_BH_ChatUI.zip`
+1. Unzip `ManojKumar_BC_ChatUI.zip`
 2. Open `index.html` in any modern browser (Chrome, Firefox, Safari, Edge)
 3. No server or build step needed — it works straight from the file system
 
 ## File Structure
 
 ```
-Kowshik_BH_ChatUI/
+ManojKumar_BC_ChatUI/
 ├── index.html              # Main HTML (structure + layout)
 ├── css/
 │   └── style.css           # All custom styles, variables, animations
